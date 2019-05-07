@@ -1,0 +1,1 @@
+# TFS.CheckIn.Policy
